@@ -3,7 +3,7 @@
 利用CMCC公共热点的小漏洞免费上网~~ :)
 
 ```sh
-  ./conn.sh <CMCC-EDU | CMCC-WEB | CMCC>
+  sudo ./conn.sh <CMCC-EDU | CMCC-WEB | CMCC>
 ```
 
 **Notice: 目前只知道我工CMCC有这特色, 其他地区尚不明确**  
